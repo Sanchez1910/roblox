@@ -33,14 +33,14 @@ local GroundTip,AircraftTip,NoClipEvent,NoClipObjects,WhiteColor = nil,nil,nil,{
 local Teleports = {
     {"Forward Operating Base", Vector3.new(-3993,64,757)     },
     {"Communications Tower",   Vector3.new(-1800,785,-4140)  },
-    {"Department Of Utilities",Vector3.new(-54,65,-3645)     },
-    {"Vietnama Village",       Vector3.new(739,120,-92)      },
-    {"Fort Ronograd",          Vector3.new(6359,192,-1468)   },
+    {"Department Of Utilities",Vector3.new(-54,70,-3645)     },
+    {"Vietnama Village",       Vector3.new(739,125,-92)      },
+    {"Fort Ronograd",          Vector3.new(6359,197,-1468)   },
     {"Ronograd City",          Vector3.new(3478,178,1073)    },
-    {"Sochraina City",         Vector3.new(93,28,3630)       },
-    {"El Chara",               Vector3.new(-4768,110,5218)   },
-    {"Naval Docks",            Vector3.new(6174,132,2099)    },
-    {"Quarry",                 Vector3.new(331,88,2598)      },
+    {"Sochraina City",         Vector3.new(93,33,3630)       },
+    {"El Chara",               Vector3.new(-4768,120,5218)   },
+    {"Naval Docks",            Vector3.new(6174,137,2099)    },
+    {"Quarry",                 Vector3.new(331,93,2598)      },
     {"Nuclear Silo",           Vector3.new(1024,46,-5148)    }
 }
 
