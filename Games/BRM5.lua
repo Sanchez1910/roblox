@@ -35,7 +35,7 @@ local Teleports = {
     {"Communications Tower",   Vector3.new(-1800,785,-4140)  },
     {"Department Of Utilities",Vector3.new(-54,63,-3645)     },
     {"Vietnama Village",       Vector3.new(739,118,-92)      },
-    {"Fort Ronograd",          Vector3.new(6359,190,-1468)   },
+    {"Fort Ronograd",          Vector3.new(6359,192,-1468)   },
     {"Ronograd City",          Vector3.new(3478,176,1073)    },
     {"Sochraina City",         Vector3.new(93,26,3630)       },
     {"El Chara",               Vector3.new(-4768,108,5218)   },
